@@ -63,7 +63,7 @@ class Buchhaltung():
                 print("Changes a choosen item to todo or done.")
                 print("")
                 print(c + "remove" + R)
-                print("Removes an choosen item.")
+                print("Removes a choosen item.")
                 print("")
                 print(c + "help" + R)
                 print("Shows this help.")
