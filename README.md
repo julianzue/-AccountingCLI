@@ -8,4 +8,5 @@ With this programm you can manage your accounting.
 - Linux
 
 ## Requirements
+(Will be installed automatically, if not found)
 - colorama
